@@ -1,6 +1,6 @@
 # ComfyUI-LoadImageWithMetaDataEx
 
-![Example_Image](assets\Example_Image.png)
+![Example_Image](assets/Example_Image.png)
 
 Custom node for ComfyUI. It can read metadata from the image filepath, and filepath can be provided as a connected input, which allows it to batch read image metadata in a loop.
 
