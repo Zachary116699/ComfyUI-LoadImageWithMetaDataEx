@@ -14,5 +14,5 @@ Most of the source code is copied from https://github.com/crystian/ComfyUI-Cryst
 
 ``image``: Image
 
-`` Metadata RAW``: The Same as ``Metadata RAW`` in Crystools' ``Load Image With Metadata`` node.
+``Metadata RAW``: The Same as ``Metadata RAW`` in Crystools' ``Load Image With Metadata`` node.
 
